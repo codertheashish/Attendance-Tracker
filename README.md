@@ -35,7 +35,7 @@ No external installation required.
 Simply run:
 
 ```bash
-python attendance_text.py
+python attendance_tracker.py
 ```
 
 That's it! No dependencies to install.
@@ -46,7 +46,7 @@ That's it! No dependencies to install.
 If you want to download the project directly from GitHub:
 
 ```bash
-https://github.com/codertheashish/Attendance_text.git
+https://github.com/codertheashish/Attendance_Tracker
 ```
 
 
