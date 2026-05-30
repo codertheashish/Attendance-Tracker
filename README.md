@@ -1,5 +1,3 @@
-# Attendance_Tracker
-A simple Python-based Student Attendance Tracker using CSV storage. It lets you add students, mark attendance, auto-calculate percentages, and show reports with low-attendance warnings. Data saves automatically and loads on startup. Lightweight, offline, and perfect for beginners or small classroom projects.
 # 📘 Student Attendance Tracker (Python)
 
 A simple and efficient **offline** Python project to manage student attendance using CSV storage. This tool lets you add students, mark attendance, track percentages, and generate clean attendance reports — all without using databases or external libraries.
