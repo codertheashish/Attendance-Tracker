@@ -85,3 +85,4 @@ https://github.com/codertheashish/Attendance_Tracker
 **Ashish Kumar Prajapati**
 
 ---
+<img width="303" height="189" alt="Attendance_tracker" src="https://github.com/user-attachments/assets/0c527416-54fb-48d6-94d3-06551358c9e5" />
