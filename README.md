@@ -84,5 +84,13 @@ https://github.com/codertheashish/Attendance_Tracker
 
 **Ashish Kumar Prajapati**
 
+- GitHub:
+[codertheashish](https://github.com/codertheashish)
+- Linkedin :
+[codertheashish](https://www.linkedin.com/in/codertheashish/)
+- Instagram :
+[codertheashish](https://www.instagram.com/codertheashish/)
+
 ---
-<img width="303" height="189" alt="Attendance_tracker" src="https://github.com/user-attachments/assets/0c527416-54fb-48d6-94d3-06551358c9e5" />
+
+<img width="1536" height="1024" alt="Attendance_tracker" src="https://github.com/user-attachments/assets/0c527416-54fb-48d6-94d3-06551358c9e5" />
