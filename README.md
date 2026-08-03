@@ -93,4 +93,4 @@ https://github.com/codertheashish/Attendance_Tracker
 
 ---
 
-<img width="1536" height="1024" alt="Attendance_tracker" src="https://github.com/user-attachments/assets/0c527416-54fb-48d6-94d3-06551358c9e5" />
+<img width="601" height="437" alt="Attendance_tracker" src="https://github.com/user-attachments/assets/0c527416-54fb-48d6-94d3-06551358c9e5" />
